@@ -21,6 +21,7 @@ export default {
   text-align: center;
   background-color:white;
   z-index: 99;
+  color:white;
 }
 
 .img img{
